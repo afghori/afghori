@@ -16,20 +16,21 @@ Hi I am Ammar Farid, a computer systems engineer from NEDUET, Karachi. I started
 	- Python
 	- Signal Processing
 	- Automatic Speech Recognition
-- 📫 How to reach me [LinkedIn](<https://www.linkedin.com/in/ammar-farid-206356154/?_l=en_US>)
+- 📫 Reach me at [LinkedIn](<https://www.linkedin.com/in/ammar-farid-206356154/?_l=en_US>)
 
 <!-- EXPERTISE -->
 ## Tech Stack
 <div> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <div>
+    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <div/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+    <div/>
+    <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+    <div/>
+    <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
+    <div/>
 </div>
-
-<!-- GITHUB STATS -->
-## Stats
-<a href="https://github.com/afghori/">
-<img align=centre height="160em" src="https://github-readme-stats.vercel.app/api?username=afghori&show_icons=true&theme=vue-dark" />
-</a>
 
