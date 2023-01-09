@@ -16,7 +16,7 @@ Hi I am Ammar Farid, a computer systems engineer from NEDUET, Karachi. I started
 	- Python
 	- Signal Processing
 	- Automatic Speech Recognition
-- 📫 How to reach me [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<https://www.linkedin.com/in/ammar-farid-206356154/?_l=en_US>)
+- 📫 How to reach me [LinkedIn](<https://www.linkedin.com/in/ammar-farid-206356154/?_l=en_US>)
 
 <!-- EXPERTISE -->
 ## Tech Stack
