@@ -11,13 +11,18 @@ Hi I am Ammar Farid, a computer systems engineer from NEDUET, Karachi. I started
 - 🌏 I'm currently based in Karachi, Pakistan
 - 🔭 I’m currently working as a Senior Software Engineer at <a href="https://techwards.co" target="blank">Techwards</a>
 - 🏗️ Creating backend APIs using Django and Django Rest Framework.
-- 💬 Ask me about **Django and Signal Processing for Automatic Speech Recognition**
-- 📫 How to reach me **https://www.linkedin.com/in/ammar-farid-206356154/?_l=en_US**
+- 💬 Ask me about:
+	- Django
+	- Python
+	- Signal Processing
+	- Automatic Speech Recognition
+- 📫 How to reach me [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<https://www.linkedin.com/in/ammar-farid-206356154/?_l=en_US>)
 
 <!-- EXPERTISE -->
 ## Tech Stack
 <div> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src=https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" alt="django" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
@@ -29,6 +34,5 @@ Hi I am Ammar Farid, a computer systems engineer from NEDUET, Karachi. I started
 ## Stats
 <a href="https://github.com/afghori/">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=afghori&show_icons=true&theme=vue-dark" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afghori&theme=vue-dark&layout=compact" />
 </a>
 
