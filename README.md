@@ -22,17 +22,14 @@ Hi I am Ammar Farid, a computer systems engineer from NEDUET, Karachi. I started
 ## Tech Stack
 <div> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src=https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" alt="django" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
 </div>
 
 <!-- GITHUB STATS -->
 ## Stats
 <a href="https://github.com/afghori/">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=afghori&show_icons=true&theme=vue-dark" />
+<img align=centre height="160em" src="https://github-readme-stats.vercel.app/api?username=afghori&show_icons=true&theme=vue-dark" />
 </a>
 
