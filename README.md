@@ -3,7 +3,7 @@
 <h3 align="center">Senior Software Engineer | Python | Django | AWS </h3>
 
 <p>
-Hi I am Ammar Farid, a computer systems engineer from NEDUET, Karachi. I started my professional career as a backend engineer in a fintech startup and, am currently associated with Techwards as a a senior software engineer where my role allows me the flexibility to wear multiple hats and work on all stages of software development lifecycle. My interests include solving real world problems for the benefit of the people, exploring new trends in automatic speech recognition and teaching.
+Hi, I am Ammar Farid, a computer systems engineer from NEDUET, Karachi. I started my professional career as a backend engineer in a fintech startup and am currently associated with Techwards as a senior software engineer, where my role allows me the flexibility to wear multiple hats and work at all stages of the software development lifecycle. My interests include solving real world problems for the benefit of people, exploring new trends in automatic speech recognition and teaching.
 </p>
 
 <!-- ABOUT ME -->
